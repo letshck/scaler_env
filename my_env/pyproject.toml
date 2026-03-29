@@ -1,0 +1,9 @@
+[project]
+name = "smart_target_env"
+version = "0.1.0"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "requests",
+    "huggingface_hub"
+]
