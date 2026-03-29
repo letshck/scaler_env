@@ -1,0 +1,3 @@
+name: smart-target-env
+description: A simple RL environment where agent learns to reach a target number
+version: 0.1.0
