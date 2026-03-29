@@ -1,0 +1,14 @@
+[project]
+name = "smart-target-env"
+version = "0.1.0"
+description = "OpenEnv-compatible smart target reinforcement learning environment"
+requires-python = ">=3.11"
+dependencies = [
+    "openenv",
+    "fastapi",
+    "uvicorn",
+    "pydantic"
+]
+
+[project.scripts]
+server = "server.app:main"
