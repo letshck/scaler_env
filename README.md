@@ -1,3 +1,13 @@
+---
+title: smart-target-env
+emoji: "🤖"
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 8000
+pinned: false
+---
+
 # Smart Target RL Environment
 
 This repository contains a reinforcement learning environment and agent toolkit under [my_env](my_env/README.md).
