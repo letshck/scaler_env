@@ -3,5 +3,5 @@ name: smart-target-env
 description: A simple RL environment where agent learns to reach a target number
 type: space
 runtime: fastapi
-app: my_env.server.app:app
+app: server.app:app
 port: 8000
